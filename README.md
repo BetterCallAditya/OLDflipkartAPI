@@ -1,0 +1,2 @@
+# flipkartAPI
+Flipkart Affiliate API 
